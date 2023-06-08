@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#layout{
+    display: inline-block;
+    width: 900px;
+    background-color: #E3EADC;
+    height: 1080px;
+    padding: 40px;
+}
+#profileimg{
+    margin: 20px;
+    
+}
+img{
+    border-radius: 50%;
+    border: 5px solid white;
+}
+#layout2{
+    position: absolute;
+    top: 50px;
+    left: 250px;
+    width: 300px;
+    padding: 20px 50px;
+    background-color: white;
+    display: inline-block;
+    width: 500px;
+    
+}
+#layout>hr{
+    width: 150px;
+    background-color: grey;
+}
+#layout>a{
+    text-decoration: none;
+    color: black;
+}
